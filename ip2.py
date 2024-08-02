@@ -127,4 +127,3 @@ def show_ip_info():
 
 if __name__ == "__main__":
     show_ip_info()
-
